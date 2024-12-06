@@ -1,0 +1,15 @@
+Steps to Run the SmallBizz Project:
+
+1. Clone the Repository
+git clone https://github.com/shravani-sajekar/SmallBizz
+
+2. Install Dependencies
+Navigate to the project folder and install the required Node.js dependencies:
+
+cd SmallBizz
+npm install
+
+3. Run the Project
+Start the project using nodemon (ensure it is installed globally or as a project dependency):
+
+nodemon app.js
